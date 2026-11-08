@@ -1,3 +1,6 @@
+# Nama : Tubagus Muhammad Ivan Syah Winata Kusuma
+# Kelas : 1C
+# Nim : 2602894
 nama_user = str(input("Masukkan nama Anda: "))
 tahun_lahir = int(input("Masukkan tahun lahir Anda: "))
 tahun_sekarang = 2026 #jika ingin fleksibel tanpa manual mengisi tahun bisa menggunakan library date

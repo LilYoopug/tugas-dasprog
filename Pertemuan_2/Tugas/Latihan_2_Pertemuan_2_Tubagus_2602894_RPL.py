@@ -1,4 +1,6 @@
-buah = int(600) / 4
+# Nama : Tubagus Muhammad Ivan Syah Winata Kusuma
+# Kelas : 1C
+# Nim : 2602894buah = int(600) / 4
 susu = int(400) / 4
 gula = int(4) / 4
 

@@ -1,4 +1,6 @@
-jarak_tempuh = int(180) # kilometer
+# Nama : Tubagus Muhammad Ivan Syah Winata Kusuma
+# Kelas : 1C
+# Nim : 2602894jarak_tempuh = int(180) # kilometer
 konsumsi_bbm = int(12) # kilometer / liter
 harga_bbm = int(13000) # rupiah / liter
 
